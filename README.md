@@ -6,8 +6,12 @@
 ### 📓 Notion
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/b2df478b6ffe44569592903f90b08a83)
  -->
+ 
+### 👩🏻‍💻 Experience
+- **42 Seoul**, 7th cadet (2022)
+- **Hansung University**, Computer Science
 
-### 🏆 Awards & Cert
+### 🏆 AWARDS & CERT
 - **2020 공개SW 개발자대회 은상**
 - **2020 한성대학교 공학경진대회 은상**
 - **2019 임베디드 소프트웨어 경진대회 입상**
