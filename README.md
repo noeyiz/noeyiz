@@ -7,7 +7,7 @@
  -->
  
 ### 👩🏻‍💻 Experience
-- **42 Seoul**, 7th cadet (2022)
+- **42 Seoul**, 7th Cadet (2022)
 - **Hansung University**, Computer Science
 
 ### 🏆 AWARDS & CERT
